@@ -59,8 +59,6 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAS_zbHgr2vOkFKXYG2FA0-Em2n1zl_QEI',
-    appId: '1:600432874904:ios:080a929d45ce20e23b47ed',
     messagingSenderId: '600432874904',
     projectId: 'okuma-pusulasi',
     storageBucket: 'okuma-pusulasi.firebasestorage.app',
