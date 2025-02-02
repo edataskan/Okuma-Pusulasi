@@ -41,8 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAvJUVfAvwvLvz6rzwTq-Az3fLNLssY9_I',
-    appId: '1:600432874904:web:4db0c11179162c7d3b47ed',
+    
     messagingSenderId: '600432874904',
     projectId: 'okuma-pusulasi',
     authDomain: 'okuma-pusulasi.firebaseapp.com',
@@ -51,8 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC3yyQDAaT0S4HClzPsSo8N6IejenNKoEI',
-    appId: '1:600432874904:android:7334fb2a7af774873b47ed',
+    
     messagingSenderId: '600432874904',
     projectId: 'okuma-pusulasi',
     storageBucket: 'okuma-pusulasi.firebasestorage.app',
