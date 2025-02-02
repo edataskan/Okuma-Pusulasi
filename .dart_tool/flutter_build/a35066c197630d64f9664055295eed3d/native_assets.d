@@ -1,0 +1,1 @@
+ C:\\Users\\EXCALIBUR\\Downloads\\okuma_pusulasi-mainzip\\okuma_pusulasi-main\\okuma_pusulasi_3\\.dart_tool\\flutter_build\\a35066c197630d64f9664055295eed3d\\native_assets.yaml: 
