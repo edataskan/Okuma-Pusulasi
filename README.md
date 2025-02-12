@@ -10,4 +10,4 @@ Ekip olarak mobil cihaz uyumluluğunu sağlayarak tüm ekran boyutlarına uygun,
 Bu proje ile öğretmenlere okuma sorunlarının erken tespitini ve öğrencilere yönelik müdahalelerin zamanında yapılmasını sağlayan etkili bir araç sunmayı başardık. 
 Ekip olarak karşılaştığımız teknik zorlukları birlikte çözüme kavuşturarak uygulamanın işlevselliğini artırdık.
 Projenin geliştirilmesinde Flutter ve Dart kullandık ve başarılı bir ekip çalışması gerçekleştirdik.
-![Ekran görüntüsü 2025-01-10 021049](https://github.com/user-attachments/assets/3f50c0cd-8b75-4ee7-8801-931d63765c4e)
+
